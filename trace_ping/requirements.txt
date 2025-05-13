@@ -1,0 +1,5 @@
+ping3==4.0.3
+pywebview==4.4.1
+flask==3.0.2
+ttkbootstrap==1.10.1
+pillow==10.2.0  # Para suporte a ícones 
