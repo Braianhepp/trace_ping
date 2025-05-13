@@ -99,11 +99,3 @@ Este projeto está sob a licença MIT.
 
 ## 👨‍💻 Autor
 Desenvolvido por Braian Hepp
-
----
-
-### 📝 Notas de Desenvolvimento
-- Interface desenvolvida com foco em usabilidade
-- Código organizado e bem documentado
-- Implementação de boas práticas de programação
-- Sistema modular e facilmente extensível
