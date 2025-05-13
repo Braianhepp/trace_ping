@@ -31,10 +31,7 @@ Um sistema de monitoramento de dispositivos em rede desenvolvido em Python, que 
 ### 4. Interface Gráfica
 - Design moderno com Tailwind CSS
 - Interface responsiva e adaptável
-- Tema escuro para melhor visualização
-- Animações suaves para melhor experiência do usuário
 - Modal para visualização detalhada do histórico
-- Scrollbars personalizadas para melhor navegação
 
 ### 5. Armazenamento de Dados
 - Banco de dados SQLite para persistência
